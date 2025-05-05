@@ -96,6 +96,7 @@ function App() {
               console.log("Subiendo imagen");
               uploadImage();
             }}
+            className="bg-yellow-600"
           >
             Subir Imagen
           </Button>
